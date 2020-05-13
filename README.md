@@ -1,6 +1,7 @@
 # peru-rt-model
+# [El Martillazo y el Huayno](https://medium.com/@rburhum/el-martillazo-y-el-huayno-278716f49938)
 
-Este es el modelo utilizado para calcular los valores de Rt del blog post "El Martillazo y el Huayno".
+Este es el modelo utilizado para calcular los valores de Rt del blog post ["El Martillazo y el Huayno"](https://medium.com/@rburhum/el-martillazo-y-el-huayno-278716f49938)
 
 Úsalo, críticalo, mejóralo.
 
